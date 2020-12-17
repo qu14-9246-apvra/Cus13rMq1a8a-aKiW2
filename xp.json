@@ -1,1 +1,1 @@
-[userid:{xp:1000,items:["a","b"]},userid2:{xp:1200,items:["x","d","m"]}]
+["userid":{"xp":1000,"items":["a","b"]},"userid2":{"xp":1200,"items":["x","d","m"]}]
